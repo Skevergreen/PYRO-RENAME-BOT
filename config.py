@@ -12,7 +12,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "Oxyver")
 
 DB_NAME = os.environ.get("DB_NAME","rename789")     
 
-DB_URL = os.environ.get("DB_URL","mongodb+srv://Unlimited:Unlimited@cluster0.hrtvz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://Autofilter56:Autofilter56@cluster0.vwcbc3p.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
